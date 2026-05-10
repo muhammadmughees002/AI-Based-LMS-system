@@ -1,0 +1,9 @@
+# AI-LMS — Backend Requirements
+fastapi
+uvicorn[standard]
+python-multipart
+pypdf
+python-pptx
+python-docx
+requests
+pydantic
